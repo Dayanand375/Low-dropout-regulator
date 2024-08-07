@@ -1,0 +1,1 @@
+# Low-dropout-regulator
